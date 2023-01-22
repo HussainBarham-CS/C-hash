@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{57F0EB48-8252-4085-9584-5E95A7148316}</ProjectGuid>
+    <ProjectGuid>{1355A400-BF43-45AA-B565-60B1A2B94733}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>variables</RootNamespace>
-    <AssemblyName>variables</AssemblyName>
+    <RootNamespace>hello_world</RootNamespace>
+    <AssemblyName>hello world</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
