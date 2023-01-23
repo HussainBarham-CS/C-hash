@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\C#\read and write\read and write\bin\Debug\read and write.exe.config
+C:\Users\pc\source\repos\C#\read and write\read and write\bin\Debug\read and write.exe
+C:\Users\pc\source\repos\C#\read and write\read and write\bin\Debug\read and write.pdb
+C:\Users\pc\source\repos\C#\read and write\read and write\obj\Debug\read and write.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C#\read and write\read and write\obj\Debug\read and write.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\C#\read and write\read and write\obj\Debug\read and write.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C#\read and write\read and write\obj\Debug\read and write.exe
+C:\Users\pc\source\repos\C#\read and write\read and write\obj\Debug\read and write.pdb
