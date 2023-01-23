@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\C#\comments\comments\bin\Debug\comments.exe.config
+C:\Users\pc\source\repos\C#\comments\comments\bin\Debug\comments.exe
+C:\Users\pc\source\repos\C#\comments\comments\bin\Debug\comments.pdb
+C:\Users\pc\source\repos\C#\comments\comments\obj\Debug\comments.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C#\comments\comments\obj\Debug\comments.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\C#\comments\comments\obj\Debug\comments.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C#\comments\comments\obj\Debug\comments.exe
+C:\Users\pc\source\repos\C#\comments\comments\obj\Debug\comments.pdb
