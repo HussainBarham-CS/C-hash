@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\C#\oop_shadw_hiding_inheretans\oop_shadw_hiding_inheretans\bin\Debug\oop_shadw_hiding_inheretans.exe.config
+C:\Users\pc\source\repos\C#\oop_shadw_hiding_inheretans\oop_shadw_hiding_inheretans\bin\Debug\oop_shadw_hiding_inheretans.exe
+C:\Users\pc\source\repos\C#\oop_shadw_hiding_inheretans\oop_shadw_hiding_inheretans\bin\Debug\oop_shadw_hiding_inheretans.pdb
+C:\Users\pc\source\repos\C#\oop_shadw_hiding_inheretans\oop_shadw_hiding_inheretans\obj\Debug\oop_shadw_hiding_inheretans.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C#\oop_shadw_hiding_inheretans\oop_shadw_hiding_inheretans\obj\Debug\oop_shadw_hiding_inheretans.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\C#\oop_shadw_hiding_inheretans\oop_shadw_hiding_inheretans\obj\Debug\oop_shadw_hiding_inheretans.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C#\oop_shadw_hiding_inheretans\oop_shadw_hiding_inheretans\obj\Debug\oop_shadw_hiding_inheretans.exe
+C:\Users\pc\source\repos\C#\oop_shadw_hiding_inheretans\oop_shadw_hiding_inheretans\obj\Debug\oop_shadw_hiding_inheretans.pdb
