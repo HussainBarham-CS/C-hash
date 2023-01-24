@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\C#\oop_properties\oop_properties\bin\Debug\oop_properties.exe.config
+C:\Users\pc\source\repos\C#\oop_properties\oop_properties\bin\Debug\oop_properties.exe
+C:\Users\pc\source\repos\C#\oop_properties\oop_properties\bin\Debug\oop_properties.pdb
+C:\Users\pc\source\repos\C#\oop_properties\oop_properties\obj\Debug\oop_properties.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C#\oop_properties\oop_properties\obj\Debug\oop_properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\C#\oop_properties\oop_properties\obj\Debug\oop_properties.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C#\oop_properties\oop_properties\obj\Debug\oop_properties.exe
+C:\Users\pc\source\repos\C#\oop_properties\oop_properties\obj\Debug\oop_properties.pdb
