@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_static_instans_class", "oop_static_instans_class\oop_static_instans_class.csproj", "{6387D29C-460F-4B26-B271-C86EA9B6AD2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6387D29C-460F-4B26-B271-C86EA9B6AD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6387D29C-460F-4B26-B271-C86EA9B6AD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6387D29C-460F-4B26-B271-C86EA9B6AD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6387D29C-460F-4B26-B271-C86EA9B6AD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32F3D80D-E886-4739-A266-39865ED8C759}
+	EndGlobalSection
+EndGlobal

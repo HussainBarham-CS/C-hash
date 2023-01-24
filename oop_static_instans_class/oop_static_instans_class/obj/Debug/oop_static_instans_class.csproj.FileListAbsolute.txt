@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\C#\oop_static_instans_class\oop_static_instans_class\bin\Debug\oop_static_instans_class.exe.config
+C:\Users\pc\source\repos\C#\oop_static_instans_class\oop_static_instans_class\bin\Debug\oop_static_instans_class.exe
+C:\Users\pc\source\repos\C#\oop_static_instans_class\oop_static_instans_class\bin\Debug\oop_static_instans_class.pdb
+C:\Users\pc\source\repos\C#\oop_static_instans_class\oop_static_instans_class\obj\Debug\oop_static_instans_class.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C#\oop_static_instans_class\oop_static_instans_class\obj\Debug\oop_static_instans_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\C#\oop_static_instans_class\oop_static_instans_class\obj\Debug\oop_static_instans_class.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C#\oop_static_instans_class\oop_static_instans_class\obj\Debug\oop_static_instans_class.exe
+C:\Users\pc\source\repos\C#\oop_static_instans_class\oop_static_instans_class\obj\Debug\oop_static_instans_class.pdb
