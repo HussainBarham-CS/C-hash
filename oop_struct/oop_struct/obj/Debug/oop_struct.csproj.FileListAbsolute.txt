@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\C#\oop_struct\oop_struct\bin\Debug\oop_struct.exe.config
+C:\Users\pc\source\repos\C#\oop_struct\oop_struct\bin\Debug\oop_struct.exe
+C:\Users\pc\source\repos\C#\oop_struct\oop_struct\bin\Debug\oop_struct.pdb
+C:\Users\pc\source\repos\C#\oop_struct\oop_struct\obj\Debug\oop_struct.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C#\oop_struct\oop_struct\obj\Debug\oop_struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\C#\oop_struct\oop_struct\obj\Debug\oop_struct.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C#\oop_struct\oop_struct\obj\Debug\oop_struct.exe
+C:\Users\pc\source\repos\C#\oop_struct\oop_struct\obj\Debug\oop_struct.pdb
