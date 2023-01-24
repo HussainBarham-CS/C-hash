@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\C#\oop_interface\oop_interface\bin\Debug\oop_interface.exe.config
+C:\Users\pc\source\repos\C#\oop_interface\oop_interface\bin\Debug\oop_interface.exe
+C:\Users\pc\source\repos\C#\oop_interface\oop_interface\bin\Debug\oop_interface.pdb
+C:\Users\pc\source\repos\C#\oop_interface\oop_interface\obj\Debug\oop_interface.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C#\oop_interface\oop_interface\obj\Debug\oop_interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\C#\oop_interface\oop_interface\obj\Debug\oop_interface.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C#\oop_interface\oop_interface\obj\Debug\oop_interface.exe
+C:\Users\pc\source\repos\C#\oop_interface\oop_interface\obj\Debug\oop_interface.pdb
