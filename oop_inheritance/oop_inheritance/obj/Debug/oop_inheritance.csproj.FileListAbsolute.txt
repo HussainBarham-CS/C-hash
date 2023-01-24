@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\C#\oop_inheritance\oop_inheritance\bin\Debug\oop_inheritance.exe.config
+C:\Users\pc\source\repos\C#\oop_inheritance\oop_inheritance\bin\Debug\oop_inheritance.exe
+C:\Users\pc\source\repos\C#\oop_inheritance\oop_inheritance\bin\Debug\oop_inheritance.pdb
+C:\Users\pc\source\repos\C#\oop_inheritance\oop_inheritance\obj\Debug\oop_inheritance.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C#\oop_inheritance\oop_inheritance\obj\Debug\oop_inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\C#\oop_inheritance\oop_inheritance\obj\Debug\oop_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C#\oop_inheritance\oop_inheritance\obj\Debug\oop_inheritance.exe
+C:\Users\pc\source\repos\C#\oop_inheritance\oop_inheritance\obj\Debug\oop_inheritance.pdb
