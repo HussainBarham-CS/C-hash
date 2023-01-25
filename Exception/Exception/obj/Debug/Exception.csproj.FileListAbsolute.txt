@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\C#\Exception\Exception\bin\Debug\Exception.exe.config
+C:\Users\pc\source\repos\C#\Exception\Exception\bin\Debug\Exception.exe
+C:\Users\pc\source\repos\C#\Exception\Exception\bin\Debug\Exception.pdb
+C:\Users\pc\source\repos\C#\Exception\Exception\obj\Debug\Exception.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C#\Exception\Exception\obj\Debug\Exception.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\C#\Exception\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C#\Exception\Exception\obj\Debug\Exception.exe
+C:\Users\pc\source\repos\C#\Exception\Exception\obj\Debug\Exception.pdb
