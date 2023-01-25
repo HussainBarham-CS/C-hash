@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\C#\oop_abstract\oop_abstract\bin\Debug\oop_abstract.exe.config
+C:\Users\pc\source\repos\C#\oop_abstract\oop_abstract\bin\Debug\oop_abstract.exe
+C:\Users\pc\source\repos\C#\oop_abstract\oop_abstract\bin\Debug\oop_abstract.pdb
+C:\Users\pc\source\repos\C#\oop_abstract\oop_abstract\obj\Debug\oop_abstract.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C#\oop_abstract\oop_abstract\obj\Debug\oop_abstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\C#\oop_abstract\oop_abstract\obj\Debug\oop_abstract.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C#\oop_abstract\oop_abstract\obj\Debug\oop_abstract.exe
+C:\Users\pc\source\repos\C#\oop_abstract\oop_abstract\obj\Debug\oop_abstract.pdb
