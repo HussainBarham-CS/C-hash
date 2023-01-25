@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\C#\oop_Delegates\oop_Delegates\bin\Debug\oop_Delegates.exe.config
+C:\Users\pc\source\repos\C#\oop_Delegates\oop_Delegates\bin\Debug\oop_Delegates.exe
+C:\Users\pc\source\repos\C#\oop_Delegates\oop_Delegates\bin\Debug\oop_Delegates.pdb
+C:\Users\pc\source\repos\C#\oop_Delegates\oop_Delegates\obj\Debug\oop_Delegates.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C#\oop_Delegates\oop_Delegates\obj\Debug\oop_Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\C#\oop_Delegates\oop_Delegates\obj\Debug\oop_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C#\oop_Delegates\oop_Delegates\obj\Debug\oop_Delegates.exe
+C:\Users\pc\source\repos\C#\oop_Delegates\oop_Delegates\obj\Debug\oop_Delegates.pdb
