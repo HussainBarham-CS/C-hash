@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\C#\make_exception\make_exception\bin\Debug\make_exception.exe.config
+C:\Users\pc\source\repos\C#\make_exception\make_exception\bin\Debug\make_exception.exe
+C:\Users\pc\source\repos\C#\make_exception\make_exception\bin\Debug\make_exception.pdb
+C:\Users\pc\source\repos\C#\make_exception\make_exception\obj\Debug\make_exception.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C#\make_exception\make_exception\obj\Debug\make_exception.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\C#\make_exception\make_exception\obj\Debug\make_exception.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C#\make_exception\make_exception\obj\Debug\make_exception.exe
+C:\Users\pc\source\repos\C#\make_exception\make_exception\obj\Debug\make_exception.pdb
